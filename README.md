@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java,Vue,JavaScript
 - 🌱 I’m currently learning Vue3,Spring
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me <<in the future>>
+- 📫 How to reach me <in the future>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
